@@ -1,7 +1,7 @@
 # NusaX Machine Translation Exploration
 
 ## Introduction
-This repository contains code for exploring and analyzing machine translation tasks using the NusaX dataset. The dataset consists of translations between various languages, including Acehnese, Balinese, and Banjarese, etc.
+This repository contains code for exploring and analyzing machine translation tasks using the NusaX dataset. The dataset consists of translations between various languages, including Acehnese, Balinese, Banjarese, and etc.
 
 ## Setup and Installation
 To run the code in this repository, you need to install the required dependencies. You can install them using the following commands:
@@ -36,7 +36,7 @@ The code facilitates training and evaluating machine translation models using th
 
 ## Predictions and Evaluation
 The repository allows making predictions on the test dataset and evaluating model performance. This involves:
-- Predicting translations for test dataset
+- Predicting translations for the test dataset
 - Evaluating translations using accuracy, BLEU, METEOR, BERTScore, and BLEURT
 - Generating Pandas DataFrame for analysis
 
